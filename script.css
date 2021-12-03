@@ -1,0 +1,140 @@
+body {
+    background-image: url("blue");
+    
+}
+
+
+search{
+    float:right;
+    background: rgb(177, 171, 161);
+    color: rgb(85, 39, 211);
+    border-radius: 0px 5px 5px 0px;
+    cursor: pointer;
+    position: relative;
+    padding: 8px;
+    font-family: sans-serif;
+    border: none;
+    margin-right: 12px;
+    height: 32px;
+    
+}
+
+.container{
+    background-color: blueviolet;
+    width: 100%;
+    height: 100%;
+
+}
+
+.container-lg{
+    width: 100px;
+    height: 200px;
+    background-color: burlywood;
+    margin-right: 200px; 
+}
+.container-fluid{
+    padding-top: 10px;
+    background-color: #fff
+    width: 100px;
+    height: 600px;
+
+}
+.row{
+    background-color:#fff
+}
+.col-sm-5{
+    background-color: rgb(179, 78, 238)
+    color: rgb(156, 116, 116);
+    height: 560px;
+}
+.col-sm-7{
+    background-color: rgb(230, 72, 72)
+    color: chocolate;
+
+}
+.blueimage{
+    width: 100%;
+    height: 100%;
+}
+.blueimg{
+    width: 99%;
+    height: 560px;
+    padding-right: px;
+    margin-left:5%;
+}
+.heading1{
+margin-left: 20%;
+margin-top: -400px;
+color: #fff;
+
+
+}
+.carousel {
+    max-width: 960px;
+    margin: auto;
+    width: 90%;
+    margin-left: 15%;
+margin-top: -320px;
+color: #fff;
+font-s
+
+  }
+  
+  .carousel-control {
+    display: none;
+  }
+  .form-control{
+      width: 10px;
+
+  }
+  .lms{
+      width: 100px;
+      height: 80px;
+  }
+  .bg-img{
+      width: 180px;
+      height: 180px;
+      margin-left: 200%;
+      margin-right: 200%;
+      margin-top: 20%;
+  }
+.form-group{
+    margin-top: 120px;
+    max-width: 60%;
+    margin-left: 20%;
+    
+}
+.form-group-2{
+    margin-top: 10px;
+    max-width: 60%;
+    margin-left: 20%;
+}
+.link1{
+    margin-top: 20% !important;
+    margin-left: 20%;
+}
+.link2{
+    margin-top: 202px !important;
+    margin-left: 90px;
+}
+.btn-primary{
+    background-color: blue;
+    color: black;
+    margin-left: 40%;
+    margin-top: 10%;
+    border-radius: 50px !important;
+    width: 120px;
+    height: 50px;
+}
+
+.form-check form-switch {
+    width: 10px !important;
+    height: 20px !important;
+}
+#flexSwitchCheckDefault{
+    margin-left: 14%;
+    width: 40PX;
+    height: 20PX;
+    background-color: rgb(240, 63, 102);
+    color: white;
+}
